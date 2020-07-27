@@ -1,0 +1,6 @@
+test test test
+trying out the new function
+Hi my name is Curren
+test test test
+:w
+
